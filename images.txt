@@ -1,6 +1,7 @@
 #nginx
 minedojo/minedojo:latest
 pytorch/pytorch:latest
+pytorch/pytorch:1.13.0-cuda11.6-cudnn8-devel
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
